@@ -1,0 +1,2 @@
+EUVP（Enhancement of Underwater Visual Perception，EUVP）由明尼苏达大学Md Jahidul Islam 老师所在团队构建的数据集
+该数据集提供了配对和非配对的高质量和低质量的20k水下图像
